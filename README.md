@@ -18,7 +18,7 @@
 - 사용자 인터페이스
     - 
         
-        ![스크린샷(232).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5d12e033-961d-42a9-a408-417b5b7294cb/364afa79-2c2f-4467-a9e7-001aac693c88/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7(232).png)
+        '![스크린샷(232).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5d12e033-961d-42a9-a408-417b5b7294cb/364afa79-2c2f-4467-a9e7-001aac693c88/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7(232).png)'
         
 
 []()
